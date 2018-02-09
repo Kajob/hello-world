@@ -1,3 +1,1 @@
-# hello-world
-Just another repository
-My name is Jonathan. I'm keen to start making my own robots!
+Will use this repository to hold all code and devlopment files for my unicycle robot.
